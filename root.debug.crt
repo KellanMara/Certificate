@@ -1,0 +1,45 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a2:27:d8:6d:fb:a4:1c:a4:93:e6:9a:db:23:04:1e:05
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: O = Acme Co, CN = Root CA
+        Validity
+            Not Before: Apr 12 07:42:06 2019 GMT
+            Not After : Apr 11 07:42:06 2020 GMT
+        Subject: O = Acme Co, CN = Root CA
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:70:1a:6e:67:a6:e0:e3:fa:58:3d:f1:f2:5e:a1:
+                    18:68:ef:31:ce:42:55:60:bc:f1:c3:d8:77:49:04:
+                    54:f9:59:db:35:69:21:5a:9a:4b:6e:0b:9a:d5:5e:
+                    6d:ea:63:16:ed:06:35:bb:25:f5:05:88:66:b2:61:
+                    7a:7e:96:5a:3f
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: ecdsa-with-SHA256
+         30:45:02:20:12:8a:c0:4e:49:35:db:65:b7:33:ac:fa:c1:4a:
+         49:d0:a0:58:ea:d8:0f:c1:0c:5d:54:58:85:6c:4d:ed:c3:4d:
+         02:21:00:e7:41:b2:b2:a0:ef:7d:e0:4d:26:94:4b:71:83:2b:
+         6e:65:e1:40:17:2c:10:e2:b5:06:6c:c8:c3:dc:48:3e:42
+-----BEGIN CERTIFICATE-----
+MIIBfzCCASWgAwIBAgIRAKIn2G37pBykk+aa2yMEHgUwCgYIKoZIzj0EAwIwJDEQ
+MA4GA1UEChMHQWNtZSBDbzEQMA4GA1UEAxMHUm9vdCBDQTAeFw0xOTA0MTIwNzQy
+MDZaFw0yMDA0MTEwNzQyMDZaMCQxEDAOBgNVBAoTB0FjbWUgQ28xEDAOBgNVBAMT
+B1Jvb3QgQ0EwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARwGm5npuDj+lg98fJe
+oRho7zHOQlVgvPHD2HdJBFT5Wds1aSFamktuC5rVXm3qYxbtBjW7JfUFiGayYXp+
+llo/ozgwNjAOBgNVHQ8BAf8EBAMCAgQwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDwYD
+VR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiASisBOSTXbZbczrPrBSknQ
+oFjq2A/BDF1UWIVsTe3DTQIhAOdBsrKg733gTSaUS3GDK25l4UAXLBDitQZsyMPc
+SD5C
+-----END CERTIFICATE-----
